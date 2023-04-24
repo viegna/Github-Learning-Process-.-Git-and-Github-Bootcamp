@@ -1,1 +1,1 @@
-Projeto para utilizar o Git
+Projeto para utilizar o Git git con
